@@ -1,2 +1,2 @@
 # Compiler--Coming-soon
-Lectical and syntax analysis using c for custom Pascal Language
+Lectical and syntax analysis for custom Pascal Language
